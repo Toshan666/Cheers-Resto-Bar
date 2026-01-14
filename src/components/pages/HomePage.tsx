@@ -130,7 +130,7 @@ export default function HomePage() {
         {/* Parallax Background */}
         <div className="absolute inset-0 z-0">
           <ParallaxImage 
-            src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=1" 
+            src="https://static.wixstatic.com/media/5b9ccc_a0213352591944ecb4c8eef059047434~mv2.png?originWidth=1152&originHeight=768" 
             alt="Cheers Resto Bar Ambience" 
             className="w-full h-full"
           />
@@ -218,7 +218,7 @@ export default function HomePage() {
               <RevealText>
                 <div className="relative aspect-[4/5] w-full overflow-hidden rounded-sm">
                   <Image 
-                    src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=2" 
+                    src="https://static.wixstatic.com/media/5b9ccc_43a4c38c987546cdb2e419d69432ac08~mv2.png?originWidth=768&originHeight=960" 
                     alt="Interior Detail" 
                     className="w-full h-full object-cover"
                   />
@@ -318,7 +318,7 @@ export default function HomePage() {
                         />
                       ) : (
                         <Image
-                          src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=3"
+                          src="https://static.wixstatic.com/media/5b9ccc_0a63e1704c0546dbba0ca3d31703920f~mv2.png?originWidth=576&originHeight=448"
                           alt="Placeholder"
                           className="w-full h-full object-cover opacity-50 grayscale"
                           width={600}
@@ -389,7 +389,7 @@ export default function HomePage() {
         {/* Background Texture */}
         <div className="absolute inset-0 opacity-20">
            <Image 
-             src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=4" 
+             src="https://static.wixstatic.com/media/5b9ccc_7707ac9d1cd34413b99568b120d2b375~mv2.png?originWidth=1152&originHeight=576" 
              alt="Bar Texture" 
              className="w-full h-full object-cover grayscale" 
            />
@@ -440,7 +440,7 @@ export default function HomePage() {
 
             <div className="relative h-[600px] hidden md:block">
                <ParallaxImage 
-                 src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=5" 
+                 src="https://static.wixstatic.com/media/5b9ccc_3869fca77b5d4960a36eac6796455ae9~mv2.png?originWidth=1152&originHeight=576" 
                  alt="Cocktail Preparation" 
                  className="w-full h-full rounded-sm shadow-2xl"
                />
